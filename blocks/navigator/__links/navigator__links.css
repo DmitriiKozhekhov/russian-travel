@@ -1,0 +1,14 @@
+.navigator__links {
+  display: grid;
+  grid-template: min-content/repeat(5, min-content);
+  gap: 18px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+@media screen and (max-width: 767px) {
+  .navigator__links {
+    grid-template: repeat(5, min-content)/1fr;
+    gap: 32px;
+  }
+}

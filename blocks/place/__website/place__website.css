@@ -1,0 +1,12 @@
+.place__website {
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    grid-area: website;
+}
+/* сделать адаптивность */
+@media screen and (max-width: 767px) {
+    .place__website {
+      padding-left: 16px;
+    }
+  }

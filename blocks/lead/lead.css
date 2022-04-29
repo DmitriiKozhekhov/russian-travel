@@ -1,0 +1,10 @@
+.lead {
+  /* width: 984px;
+  height: 1005px; */
+  /* border: 1px solid pink; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 56px;
+  margin:0;
+}
