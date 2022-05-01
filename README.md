@@ -1,5 +1,7 @@
 # Проект: Путешествие по России
+
 Ссылка на проект в Github Pages https://dmitriikozhekhov.github.io/russian-travel/index.html
+
 Проект о путешествиях по России.
 
 В проекте реализованы следующие технологии:
