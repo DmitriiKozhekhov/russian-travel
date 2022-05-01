@@ -5,6 +5,11 @@
   margin: 40px 0 0 0;
   font-weight: 400;
 }
+@media screen and (max-width: 1079px) {
+  .intro__text {
+    padding-left: 48px;
+  }
+}
 @media screen and (max-width: 767px) {
   .intro__text {
     padding: 0 16px 0 16px;
